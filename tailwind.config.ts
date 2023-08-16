@@ -43,7 +43,7 @@ const config: Config = {
         "gum-700": "#af548b",
         "gum-800": "#87416c",
         "gum-900": "#673252",
-        "bluberry": "#07061D",
+        "blueberry": "#07061D",
         "background": "#030712",
         "pistachio": "#D3FFCC",
         "cream": "#E2DFCD",
