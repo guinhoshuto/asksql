@@ -20,7 +20,8 @@ export async function POST(req: Request){
         """
 
         A partir do schema acima, escreva uma query SQL a partir da solicitação abaixo:
-
+        Me retorne apenas o código SQL, nada além disso
+        
         Solicitação: 
         """
         ${question}
